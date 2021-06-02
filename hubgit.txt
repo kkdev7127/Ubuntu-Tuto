@@ -1,3 +1,5 @@
 Changes in GIT
 Need to merge
 and look for pull request
+This is the line added from CLI
+We need to check Pull Request ok 
